@@ -78,7 +78,7 @@ implementation("com.google.firebase:firebase-storage")
 
 Включаем, следуя инструкциям, и по возвращению видим ключ:
 
-https://static.tildacdn.com/tild3562-3061-4437-a135-303137663165/image11.png
+![](https://static.tildacdn.com/tild3562-3061-4437-a135-303137663165/image11.png)
 
 
 Задание:
